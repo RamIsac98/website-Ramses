@@ -132,3 +132,15 @@ button:hover span {
 button:hover {
     border: none;
 }
+
+footer{
+    background-color: black;
+    height:  10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.para-footer{
+    color: white;
+}
